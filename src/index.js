@@ -5,8 +5,7 @@ import "./index.css"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <div className=' text-center'>
-    <h1 className=' text-green-400'>Hello World</h1>
+  <div className="text-center border-solid">
     <App />
   </div>
 );
